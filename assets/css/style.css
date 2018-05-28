@@ -11,20 +11,8 @@ body {
     background-image: url("../images/escheresque/escheresque.png");
 }
 
-
-#contentHeader {
-    color: #4aaaa5;
-}
-
-.navbar{
-    padding:0;
-    margin: 0 0 1em 0;
-}
-
 footer{
-    background-color: #666666;
     border-top: 5px solid #25a2b7;
-    position: absolute;
     bottom: 0;
     width: 100%;
 }
