@@ -22,8 +22,6 @@ body {
 
 .navbar-brand{
     background-color: #4aaaa5;
-    margin: 0;
-    padding: 10px 20px;
 }
 
 .navbar{
@@ -33,6 +31,10 @@ body {
 
 footer{
     background-color: #666666;
+    border-top: 5px solid #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 #footerStyle, small {
@@ -42,3 +44,4 @@ footer{
 .float-md-left {
     max-width: 250px;
 }
+
