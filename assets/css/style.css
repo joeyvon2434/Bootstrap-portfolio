@@ -18,7 +18,7 @@ footer{
 }
 
 
-.float-md-left {
+.float-md-left, .float-md-right {
     max-width: 250px;
 }
 
