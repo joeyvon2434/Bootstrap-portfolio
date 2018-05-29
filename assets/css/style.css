@@ -25,3 +25,8 @@ footer{
 ol{
     list-style-position: inside;
 }
+
+.projectBanner {
+    bottom: 1.5em;
+    width: 269px;
+}
