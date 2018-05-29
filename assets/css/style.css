@@ -11,9 +11,14 @@ body {
     background-image: url("../images/escheresque/escheresque.png");
 }
 
+.stickyFooterDiv {
+    flex: 1 0 auto;
+}
+
 footer{
     border-top: 5px solid #25a2b7;
     bottom: 0;
+    left: 0;
     width: 100%;
 }
 
